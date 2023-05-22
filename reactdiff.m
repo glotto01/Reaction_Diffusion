@@ -1,6 +1,6 @@
 function reactdiff(cr,r,a,L,u0,tf)
 % 5th order spatial interpolation,
-%correct to 3rth order temporal extrapolation. u0 should be a function of
+%correct to 2nd order temporal extrapolation. u0 should be a function of
 %x specifying initial condition. tf is desired intergration time. outputs are
 %saved to csv file
 tic
